@@ -1,12 +1,11 @@
-# holdem
-Texas Holdem Script
+##Texas Holdem Script
 This file runs as a shell script. It deals a hand of Texas Hold 'Em and ranks the players hands (including card values of a made hand,
 along with kickers.
 
 It's not a game; it's more base classes for card games in general.
 
 
->./holdem.py 4
+  >./holdem.py 4
 
   Player 1: 5♣ 5♢ 
   
